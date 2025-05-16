@@ -2,7 +2,7 @@
 ### Overview
 This Excel-based dashboard presents a detailed and interactive analysis of global sales performance across different product categories, countries, and payment methods. It is designed to offer actionable business insights that help improve financial decisions, product strategies, and customer experience..
 
-![blinkit sales analysis Dashboard](https://github.com/ShivanisharmaF128/blinkit-sales-and-customer-analysis-Excel-/blob/main/blinkit%20dashboard.jfif)
+![sales analysis Dashboard](https://github.com/ShivanisharmaF128/Sales_Analysis_Using_Excell/blob/main/Sales%20Analysis.jfif)
 
 ### Features ✨
 -Interactive Filters: Slice data by Country and Product Category
